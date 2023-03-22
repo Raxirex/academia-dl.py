@@ -1,6 +1,8 @@
 # academia-dl.py
 Python port for the academia-dl
 
+This script allows you to download PDF files from academia.edu it validates them and downloads the corresponding PDF files PARALLELLY.
+
 
 #Prerequisites
 
