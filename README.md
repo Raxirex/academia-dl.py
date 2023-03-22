@@ -15,3 +15,8 @@ beautifulsoup4
 tldextract
 
 ```pip install requests beautifulsoup4 tldextract```
+
+
+usage:
+
+```python academia-dl.py "academia url"
