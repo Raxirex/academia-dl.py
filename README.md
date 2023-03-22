@@ -8,8 +8,8 @@ Python port for the academia-dl
 
 #Dependencies
 
-```requests
+requests
 beautifulsoup4
-tldextract```
+tldextract
 
 ```pip install requests beautifulsoup4 tldextract```
