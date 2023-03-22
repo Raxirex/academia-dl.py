@@ -19,4 +19,4 @@ tldextract
 
 usage:
 
-```python academia-dl.py "academia url"
+```python academia-dl.py "academia url" ```
